@@ -1,2 +1,4 @@
 format: jb-book
-root: G17_workbench
+root: README
+chapters:
+  - file: G17_workbench
